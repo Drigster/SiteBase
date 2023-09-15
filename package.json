@@ -13,16 +13,16 @@
   "author": "Drigster",
   "license": "ISC",
   "dependencies": {
-    "daisyui": "^2.50.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
-    "nunjucks": "^3.2.3",
+    "nunjucks": "^3.2.4",
     "pm2": "^5.3.0"
   },
   "devDependencies": {
+    "daisyui": "^3.7.4",
     "nodemon": "^3.0.1",
-    "tailwindcss": "^3.2.4"
+    "tailwindcss": "^3.3.3"
   }
 }
